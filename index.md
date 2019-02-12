@@ -21,3 +21,8 @@ I can't live without music, that's probably why ballroom dancing was my hobby ab
 ### To do before the end
 If i haven't done my work, i can't sleep. That's why i love the saying "Сделал дело гуляй смело" or "Business before pleasure".
 
+# URL's
+
+### [Codewars](https://www.codewars.com/users/MarkinMaksim)
+### [Padawans](https://18.194.77.2/HomeWorks)
+### [GitHub](https://github.com/SkiLLeTM?tab=repositories)
