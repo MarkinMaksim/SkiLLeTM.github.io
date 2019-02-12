@@ -1,13 +1,4 @@
-## About Me
 
-I have over 3 years of experience as a student of BSUIR. Also I have experience of working in team.
-I love solve problems that i can't do with 1-2 attempts. I have learned in University languages like #c,c
-java, Delphi, php. I couldn't say that know them perfect, but basic's mastered. 
-
-## Highlights
-
--yhfgyjfyfgh
-sdfsdf
 
 # Header 1
 ## Header 2
@@ -20,6 +11,16 @@ sdfsdf
 2. List
 
 **Bold** and _Italic_ and `Code` text
+## About Me
+
+I have over 3 years of experience as a student of BSUIR. Also I have experience of working in team.
+I love solve problems that i can't do with 1-2 attempts. I have learned in University languages like #c,c
+java, Delphi, php. I couldn't say that know them perfect, but basic's mastered. 
+
+## Highlights
+
+-yhfgyjfyfgh
+sdfsdf
 
 [Link](url) and ![Image](src)
 ```
