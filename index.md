@@ -1,36 +1,23 @@
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-## About Me
+# About Me
 
 I have over 3 years of experience as a student of BSUIR. Also I have experience of working in team.
-I love solve problems that i can't do with 1-2 attempts. I have learned in University languages like #c,c
+I love solve problems that i can't do with 1-2 attempts. I have learned in University languages like C#,C
 java, Delphi, php. I couldn't say that know them perfect, but basic's mastered. 
 
-## Highlights
+## Recent Projects
 
--yhfgyjfyfgh
-sdfsdf
+-Simple DI container on C# +.Net in library;
 
-[Link](url) and ![Image](src)
-```
+-Validation(generic) service on C# +.Net in library;
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-Client server REST service with using Nancy, Observer, Simple DI, Validation and SQL Lite;
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SkiLLeTM/SkiLLeTM.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Interests
 
-### Support or Contact
+### I like sports life. 
+I can't live without music, that's probably why ballroom dancing was my hobby about 8 years.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### To do before the end
+If i haven't done my work, i can't sleep. That's why i love the saying "Сделал дело гуляй смело" or "Business before pleasure".
+
