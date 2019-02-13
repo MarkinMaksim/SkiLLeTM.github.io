@@ -10,3 +10,38 @@ header{
 	height: 250px;	
 	text-align: center;
 }
+.avatar{
+	margin-top: 50px;
+	height: 150px;	
+	border-radius: 100px; 
+    border: 7px solid green; 
+    box-shadow: 0 0 7px #666; 
+}
+
+h1{
+	padding-top: 10px;	
+	background: none;
+	color: white;
+	font-family: "Arial";
+}
+
+main{
+	margin-top: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+div{
+	margin-top: 50px;
+}
+
+h2{
+	text-align:	center;
+	margin: 10px;
+	font-family: "Arial";
+}
+h3{{
+	padding-left: 10px;
+	margin: 10px;
+	font-family: "Arial";
+}
