@@ -1,0 +1,12 @@
+@charset "utf-8";
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color:#c0c0c0;
+}
+
+header{
+	background: radial-gradient(#55ddff, #0081b5);
+	height: 250px;	
+	text-align: center;
+}
