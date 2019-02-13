@@ -7,14 +7,14 @@
 
 header{
 	background: radial-gradient(#55ddff, #0081b5);
-	height: 250px;	
+	height: 350px;	
 	text-align: center;
 }
 .avatar{
 	margin-top: 50px;
 	height: 150px;	
 	border-radius: 100px; 
-    border: 7px solid green; 
+    border: 7px solid blue; 
     box-shadow: 0 0 7px #666; 
 }
 
